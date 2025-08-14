@@ -76,15 +76,4 @@ Twitter Sentiment Analysis/
 - **Output**: 4 sentiment classes
 - **Accuracy**: 85% on test data
 
-## 🤝 Contributing
-
-Feel free to contribute by reporting bugs, suggesting features, or improving the code.
-
-## 📄 License
-
-This project is for educational and research purposes.
-
----
-
-**Happy Sentiment Analysis! 🎉**
 
